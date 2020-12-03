@@ -1,7 +1,8 @@
 # Gesture-Recognition
 Created a model that identifies the gestures using CNN-RNN model
-Problem Statement:
-To develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote
+
+## Problem Statement:
+To develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote, need to build a system for gesture recognition.
 The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:
 
 1. Thumbs up:  Increase the volume
